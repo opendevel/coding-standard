@@ -1,0 +1,12 @@
+{
+    "name": "robertsipek/coding-standard",
+    "description": "Custom Coding Standard based on Slevomat Coding Standard",
+    "license": "MIT",
+    "type": "phpcodesniffer-standard",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.1",
+        "slevomat/coding-standard": "^4.8"
+    }
+}
