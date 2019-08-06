@@ -1,5 +1,5 @@
 {
-    "name": "robertsipek/coding-standard",
+    "name": "opendevel/coding-standard",
     "description": "Custom Coding Standard based on Slevomat Coding Standard",
     "license": "MIT",
     "type": "phpcodesniffer-standard",
