@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.1",
-        "slevomat/coding-standard": "^4.8"
+        "php": "^7.3 || ^8.0",
+        "slevomat/coding-standard": "^7.0"
     }
 }
